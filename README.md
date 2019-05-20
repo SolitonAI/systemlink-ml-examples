@@ -16,17 +16,17 @@ SystemLink Server provides JupyterHub as an optional plugin which can be used to
 The notebooks will cover the following:
 - Using SystemLink's Python APIs to query and load data from SystemLink Server.
 - Data prepration and training an ML model to classify wavefroms.
-- Deploying a trained model in SystemLink to classify wavefroms.
+- Deploying a trained model in SystemLink to classify waveforms.
 
 #### Dataset used: 
-The notebooks uses the wafer dataset, which is a public dataset available here : http://www.timeseriesclassification.com/description.php?Dataset=Wafer
+The notebooks use the wafer dataset, which is a public dataset available here: http://www.timeseriesclassification.com/description.php?Dataset=Wafer
 
 #### Model used: 
-The notebooks uses a simple neural network model just for demonstration. It is not an optimized model for this dataset.
+The notebooks has a simple neural network model just for demonstration. It is not an optimized model for this dataset.
 
 
 ### Learn More:
-To learn more about leveraging SystemLink for Machine Learning, visit : https://www.solitontech.com/systemlink-for-machine-learning/
+To learn more about leveraging SystemLink for Machine Learning, visit: https://www.solitontech.com/systemlink-for-machine-learning/
 
 
 
